@@ -37,7 +37,7 @@ class _FormState extends State<Form> {
                 ),
                 ),
               ),
-              SizedBox(height: 40,),
+              SizedBox(height: 50,),
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 80.0),
                 child: TextField(decoration: InputDecoration(
